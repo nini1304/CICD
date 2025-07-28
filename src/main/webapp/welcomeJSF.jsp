@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Commit para fork 11:18pm del 22 de Julio" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Commit desde dockerhub 10:18pm del 27 de Julio" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
